@@ -52,6 +52,7 @@
 - [Groupcache](https://github.com/golang/groupcache) - Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 - [Roshi](https://github.com/soundcloud/roshi/) - Roshi is a large-scale CRDT set implementation for timestamped events.
 - [Lmdbjni](https://github.com/deephacks/lmdbjni) - LMDB for Java, which is a very fast embedded key/value store with full ACID semantics.
+- [HollowDB](https://github.com/firstbatchxyz/hollowdb) - HollowDB is a decentralized & privacy-preserving key-value database on Arweave network, powered by Warp Contracts.
 
 ## Graph
 
