@@ -1,14 +1,16 @@
-﻿# awesome-database [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+﻿# Awesome-database [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of amazingly awesome database libraries, resources.
 
 ## Contents
 
-- [SQL](#SQL)
-- [NoSQL](#NoSQL)
-- [Key-Value](#SQL)
-- [Graph](#SQL)
-- [Vector](#SQL)
+- [SQL](#sql)
+- [NoSQL](#nosql)
+- [Key-Value](#key-value)
+- [Graph](#graph)
+- [Vector](#vector)
+- [Research Papers](#research-papers)
+- [Contribute](#contribute)
 
 ## SQL
 
@@ -23,9 +25,9 @@
 
 ## NoSQL
 
-- [Aerospike](https://github.com/aerospike/aerospike-server) - Aerospike Database Server – flash-optimized, in-memory, nosql database
+- [Aerospike](https://github.com/aerospike/aerospike-server) - Aerospike Database Server – flash-optimized, in-memory, nosql database.
 - [MongoDB](https://github.com/mongodb/mongo) - A source-available NoSQL database program that uses a document-oriented database model. It supports a variety of data forms including text, images, and complex objects. Known for its scalability and flexibility.
-- [InfluxDB](https://github.com/influxdb/influxdb) - Scalable datastore for metrics, events, and real-time analytics
+- [InfluxDB](https://github.com/influxdb/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
 - [LedisDB](https://github.com/siddontang/ledisdb) - Ledisdb is a high performance NoSQL like Redis based on LevelDB.
 - [Tiedot](https://github.com/HouzuoGuo/tiedot) - A NoSQL database powered by Golang. It has a JSON API and supports basic CRUD operations and in-place updates. Designed for simplicity and performance.
 - [Elasticsearch](https://github.com/elasticsearch/elasticsearch) - Open Source, Distributed, RESTful Search Engine.
@@ -33,10 +35,10 @@
 - [OrientDB](https://github.com/orientechnologies/orientdb) - OrientDB is an Open Source NoSQL DBMS with the features of both Document and Graph DBMSs.
 - [CouchDB](https://github.com/apache/couchdb) - Apache CouchDB™ is a database that uses JSON for documents,JavaScript for MapReduce indexes, and regular HTTP for its API.
 
-### Key-Value
+## Key-Value
 
 - [LMDB](http://symas.com/mdb/) - Very fast embedded key/value store with full ACID semantics.
-- [Memcache](https://github.com/memcached/memcached) - Free & open source, high-performance, distributed memory object caching system
+- [Memcache](https://github.com/memcached/memcached) - Free & open source, high-performance, distributed memory object caching system.
 - [Monetdb](https://github.com/snaga/monetdb) - An open-source column-oriented database management system that focuses on high performance for complex queries. It's often used for data warehousing, OLAP, and data mining.
 - [Redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes.
 - [RethinkDB](https://github.com/rethinkdb/rethinkdb) - An open-source distributed JSON document database with a pleasant and powerful query language.
@@ -51,15 +53,15 @@
 - [Roshi](https://github.com/soundcloud/roshi/) - Roshi is a large-scale CRDT set implementation for timestamped events.
 - [Lmdbjni](https://github.com/deephacks/lmdbjni) - LMDB for Java, which is a very fast embedded key/value store with full ACID semantics.
 
-### Graph
+## Graph
 
-- [Neo4j](https://github.com/neo4j/neo4j) - : An open-source, NoSQL, native graph database that provides an ACID-compliant transactional backend for your applications. Known for its high performance, scalability, and flexibility.
+- [Neo4j](https://github.com/neo4j/neo4j) - An open-source, NoSQL, native graph database that provides an ACID-compliant transactional backend for your applications. Known for its high performance, scalability, and flexibility.
 
-### Vector
+## Vector
 
 ## Research Papers
 
-- [DB-Readings](https://github.com/rxin/db-readings) - A list of papers essential to understanding databases and building new data systems
+- [DB-Readings](https://github.com/rxin/db-readings) - A list of papers essential to understanding databases and building new data systems.
 
 ## Contribute
 
