@@ -22,6 +22,8 @@
 - [VoltDB](https://github.com/VoltDB/voltdb/) - VoltDB is a horizontally-scalable, in-memory SQL RDBMS designed for applications that have extremely high read and write throughput requirements.
 - [Datomic](http://www.datomic.com/) - A distributed database designed to enable scalable, flexible and intelligent applications, running on next-gen cloud architectures. It provides ACID transactions, joins, and a powerful query language with time-travel capabilities.
 - [Cassandra](https://github.com/apache/cassandra) - Cassandra is a partitioned row store. Rows are organized into tables with a required primary key.
+- [TiDB](https://www.pingcap.com/tidb) - TiDB is an full open-source MySQL _compatible_ distributed relational "NewSQL" database written in Go and Rust. Offering support for both on-premise and cloud deployments with a non-blocking DDL.
+- [Greenplum](https://greenplum.org) - Greenplum is an MPP (massively parallel processing / multi-node) version of PostgreSQL, for analytic workloads. It lags behind upstream PostgreSQL versions, based on v9.4 as of June 2023.
 
 ## NoSQL
 
@@ -43,6 +45,7 @@
 - [Redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes.
 - [RethinkDB](https://github.com/rethinkdb/rethinkdb) - An open-source distributed JSON document database with a pleasant and powerful query language.
 - [RocksDB](https://github.com/facebook/rocksdb) - Embedded key-value store for fast storage.
+- [TiKV](https://tikv.org/) - ACID-compliant, distributed key-value store, based on RocksDB. TiKV is designed as the row-based storage engine for TiDB.
 - [SSDB](https://github.com/ideawu/ssdb) - SSDB - A fast NoSQL database, an alternative to Redis.
 - [Riak](https://github.com/basho/riak) - Riak is a decentralized datastore from Basho Technologies.
 - [Bolt](https://github.com/boltdb/bolt) - A low-level key/value database for Go.
