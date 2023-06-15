@@ -14,6 +14,8 @@
 
 ## SQL
 
+- [TiDB](https://www.pingcap.com/tidb) - MySQL *compatible* distributed relational "NewSQL" database, written in Go and Rust. TiDB's architecture includes TiDB ( compute ) nodes, TiKV ( row-based / OLTP workload ) storage node, TiFlash ( column-based / OLAP workload ) storage nodes, PD ( placememt drover / cluster brains ) nodes. The query optimizer supports generating plans that access both TiKV and TiFlash nodes, and combining the results from both in the compute nodes. TiDB has fully online scaling of all node types, and online, non-blocking DDL. TiDB is available as a fully open-source on-premise solution. PingCAP ( the creators of TiDB ) provide enterprise support for on-premise and fully managed cloud TiDB clusters.
+- [Greenplum](https://greenplum.org) - Greenplum is an MPP ( massively parallel processing / multi-node ) version of Postgres, for analytic workloads. It lags behind upstream Postgres versions ( currently being based on v9.4 ), however aims to track upstream changes eventually.
 - [Citus](https://github.com/citusdata/cstore_fdw) - Fast columnar store for analytics with PostgreSQL.
 - [Facebook MySQL](https://github.com/facebook/mysql-5.6) - Facebook's branch of the Oracle MySQL v5.6 database.
 - [Twitter MySQL](https://github.com/twitter/mysql) - MySQL fork maintained and used at Twitter.
@@ -43,6 +45,7 @@
 - [Redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes.
 - [RethinkDB](https://github.com/rethinkdb/rethinkdb) - An open-source distributed JSON document database with a pleasant and powerful query language.
 - [RocksDB](https://github.com/facebook/rocksdb) - Embedded key-value store for fast storage.
+- [TiKV](https://tikv.org/) - ACID-compliant, distributed key-value store, based on RocksDB. TiKV is designed as the row-based storage engine for TiDB.
 - [SSDB](https://github.com/ideawu/ssdb) - SSDB - A fast NoSQL database, an alternative to Redis.
 - [Riak](https://github.com/basho/riak) - Riak is a decentralized datastore from Basho Technologies.
 - [Bolt](https://github.com/boltdb/bolt) - A low-level key/value database for Go.
