@@ -64,6 +64,7 @@
 ## Vector
 
 - [Pinecone](https://www.pinecone.io/) - The vector database for machine learning applications. Build vector-based personalization, ranking, and search systems that are accurate, fast, and scalable.
+- [DANNY](https://github.com/firstbatchxyz/danny) - DANNY is a decentralized vector database for building vector search applications powered by Warp Contracts on Arweave network. Offers a robust set of tools for the development of various applications, including recommendation systems and semantic search functionalities.
 
 ## Research Papers
 
