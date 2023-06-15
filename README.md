@@ -63,6 +63,8 @@
 
 ## Vector
 
+- [Pinecone](https://www.pinecone.io/) - The vector database for machine learning applications. Build vector-based personalization, ranking, and search systems that are accurate, fast, and scalable.
+
 ## Research Papers
 
 - [DB-Readings](https://github.com/rxin/db-readings) - A list of papers essential to understanding databases and building new data systems.
