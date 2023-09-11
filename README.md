@@ -9,6 +9,8 @@
 - [Key-Value](#key-value)
 - [Graph](#graph)
 - [Vector](#vector)
+- [Search Engines](#search-engines)
+- [Blogs](#blogs)
 - [Research Papers](#research-papers)
 - [Contribute](#contribute)
 
