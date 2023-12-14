@@ -9,6 +9,8 @@
 - [Key-Value](#key-value)
 - [Graph](#graph)
 - [Vector](#vector)
+- [Search Engines](#search-engines)
+- [Blogs](#blogs)
 - [Research Papers](#research-papers)
 - [Contribute](#contribute)
 
@@ -66,6 +68,13 @@
 
 - [Pinecone](https://www.pinecone.io/) - The vector database for machine learning applications. Build vector-based personalization, ranking, and search systems that are accurate, fast, and scalable.
 - [DANNY](https://github.com/firstbatchxyz/danny) - DANNY is a decentralized vector database for building vector search applications powered by Warp Contracts on the Arweave network. Offers a robust set of tools for the development of various applications, including recommendation systems and semantic search functionalities.
+
+## Search Engines
+- [Elastic Search](https://www.elastic.co/) - Elasticsearch is a versatile and powerful tool for searching, analyzing, and visualizing data. Its flexibility and scalability make it a valuable asset for organizations dealing with diverse data sources and analytical requirements.
+- [Apache Solr](https://solr.apache.org/) - Apache Solr is an open-source search platform built on Apache Lucene. It is designed for indexing, searching, and analyzing large volumes of text data efficiently. 
+
+## Blogs
+- [Exploring the Diversity of Database](https://medium.com/@prasannabrabourame/exploring-the-diversity-of-database-types-and-their-ideal-use-cases-821c1fd642d5) - Exploring the Diversity of Database Types and Their Ideal Use Cases
 
 ## Research Papers
 
