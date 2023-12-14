@@ -36,6 +36,7 @@
 - [MapDB](https://github.com/jankotek/MapDB) - MapDB provides concurrent Maps, Sets, and Queues backed by disk storage or off-heap-memory. It is a fast and easy-to-use embedded Java database engine.
 - [OrientDB](https://github.com/orientechnologies/orientdb) - OrientDB is an Open Source NoSQL DBMS with the features of both Document and Graph DBMSs.
 - [CouchDB](https://github.com/apache/couchdb) - Apache CouchDB™ is a database that uses JSON for documents, JavaScript for MapReduce indexes, and regular HTTP for its API.
+- [Fireproof](https://github.com/fireproof-storage/fireproof) - Zero dependency, offline-capable CRDT database, runs in the browser and connects to any cloud.
 
 ## Key-Value
 
